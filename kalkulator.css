@@ -1,0 +1,40 @@
+body{
+	background-color:darkgrey ;
+	background-image: url(math.jpg);
+	background-size: 600px;
+}
+input{
+	width: 80px;
+	height: 80px;
+	cursor: pointer;
+}
+
+.container{
+	width: 400px;
+	margin: 90px auto;
+	border: 2px solid black;
+	background-image: url(photo.jpg);
+
+}   
+
+
+.hasil{
+	
+	border: 3px solid black;
+	width: 300px;
+	height: 90px;
+	margin-bottom: 15px;
+	font-size: 40px;
+	text-align: right;
+	text-decoration: underline;
+	color: black;
+	font-weight: 10;
+   background-color: white;
+   text-align: center;
+}
+.angka{
+	margin: 5px 8px;
+}
+.back{
+	margin: 5px 8px;
+}
